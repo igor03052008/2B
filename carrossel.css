@@ -3,8 +3,8 @@
 @import url(carrossel.css);
 
 .carrossel__titulo{
-    color: orange;
-    background-color: white;
+    color: var(--laranja);
+    background-color: var(--branco);
     text-align: center;
     text-transform: uppercase;
     font-size: 18px;
